@@ -1,0 +1,43 @@
+.StyledIcon {
+  margin: 16px 0;
+}
+
+.StyledText {
+  color: #18478b;
+  font-size: 24px;
+  font-weight: 600;
+  margin-bottom: 4px;
+}
+
+.tagLine {
+  color: #18478b;
+  font-size: 12px;
+  font-weight: 600;
+  margin-bottom: 16px;
+}
+
+.ListItemIcon {
+  color: #7e84a3;
+}
+
+.navbarIcon {
+  font-size: 20px;
+}
+
+.navbarText {
+  font-size: 14px !important;
+}
+
+.selectedButton {
+  color: #185ec4;
+  background-color: #f2f7ff;
+  border-left: 4px solid #185ec4;
+
+  .ListItemIcon {
+    color: #185ec4;
+  }
+}
+
+.expandIconStyle {
+  margin-left: 12px;
+}
